@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+    background: #f0f0f0;
+}
+h1 {
+    color: #333;
+}
+form input, form button {
+    padding: 10px;
+    margin: 5px;
+}
