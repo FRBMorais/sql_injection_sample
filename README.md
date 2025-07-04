@@ -83,7 +83,8 @@ Authorization:Bearer <token-admin>
 1. crie o ambiente virtual ```bash python -m venv venv```
 2. instale o Flask ```bash pip install Flask```
 3. rode a aplicação ```python app.py```
-4. digite 1 --> vai retornar `Felipe`
+4. digite 1 --> vai retornar `Estudante Felipe`
+4. digite 2 --> vai retornar `Professor Felipe`
 5. digite 1 UNION SELECT sqlite_version() --> vai retornar a versão do SQL
 
 **OBS**: O passo 5 exemplifica o conceito do SQLi apresentado contextualizado no problema do apache.
