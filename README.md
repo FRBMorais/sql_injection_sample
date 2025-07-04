@@ -5,7 +5,7 @@
 
 - **Título**: _SQL Injection crítico no Apache Traffic Control (CVE‑2024‑45387)_
 - **Data do Relato**: `23 de dezembro de 2024`
-- **Relator/Descoberto por**: Felipe Rosa / Tencent YunDing Security Lab
+- **Relator/Descoberto por**: Felipe Rosa (deste relatório/exemplo) / Tencent YunDing Security Lab (relator/descobridor real)
 - **Sistema/Aplicativo Alvo**: Apache Traffic Control – componente Traffic Ops (versões 8.0.0 e 8.0.1)
 - **Ambiente**: Produção (serviços CDN)
 
